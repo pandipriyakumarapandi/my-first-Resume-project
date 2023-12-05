@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+.whole{
+    margin: 10px 50px 0 50px;
+}
+.name{
+    text-align: center;
+}
+.heading{
+    background-color: aqua;
+    padding: 5px;
+}
+.container{
+    width: 50%;
+    background-color: #ddd;
+}
+.skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+}
+.html{
+    width: 90%;
+    background-color: #04aa6d;
+}
+.css{
+    width: 80%;
+    background-color: #31e2a1;
+}
+.js{
+    width: 70%;
+    background-color: #54f1b8;
+}
+.c{
+    width: 65%;
+    background-color: #a6f8da;
+}
+.skill li{
+    margin-top: 20px;
+}
+
+
